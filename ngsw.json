@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1658234987237,
+  "timestamp": 1658249513628,
   "index": "https://jimyyy.github.io/Front-end-portfolio/index.html",
   "assetGroups": [
     {
@@ -11,8 +11,9 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://jimyyy.github.io/Front-end-portfolio/favicon.png",
         "https://jimyyy.github.io/Front-end-portfolio/index.html",
-        "https://jimyyy.github.io/Front-end-portfolio/main.8b6e1ed61b7e40b1f5f0.js",
+        "https://jimyyy.github.io/Front-end-portfolio/main.b20cb2319d93d61c9a61.js",
         "https://jimyyy.github.io/Front-end-portfolio/manifest.webmanifest",
         "https://jimyyy.github.io/Front-end-portfolio/polyfills.a4021de53358bb0fec14.js",
         "https://jimyyy.github.io/Front-end-portfolio/runtime.e227d1a0e31cbccbf8ec.js",
@@ -29,14 +30,7 @@
       },
       "urls": [
         "https://jimyyy.github.io/Front-end-portfolio/assets/bootstrap.css",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-128x128.png",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-144x144.png",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-152x152.png",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-192x192.png",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-384x384.png",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-512x512.png",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-72x72.png",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-96x96.png",
+        "https://jimyyy.github.io/Front-end-portfolio/assets/icons/favicon.png",
         "https://jimyyy.github.io/Front-end-portfolio/assets/images/9antra.png",
         "https://jimyyy.github.io/Front-end-portfolio/assets/images/Capture d’écran (470).png",
         "https://jimyyy.github.io/Front-end-portfolio/assets/images/Capture d’écran (471).png",
@@ -155,8 +149,7 @@
         "https://jimyyy.github.io/Front-end-portfolio/assets/images/travel1 (6).png",
         "https://jimyyy.github.io/Front-end-portfolio/assets/images/travel1 (7).png",
         "https://jimyyy.github.io/Front-end-portfolio/assets/images/undraw-contact.svg",
-        "https://jimyyy.github.io/Front-end-portfolio/assets/style.css",
-        "https://jimyyy.github.io/Front-end-portfolio/favicon.png"
+        "https://jimyyy.github.io/Front-end-portfolio/assets/style.css"
       ],
       "patterns": []
     }
@@ -164,14 +157,7 @@
   "dataGroups": [],
   "hashTable": {
     "https://jimyyy.github.io/Front-end-portfolio/assets/bootstrap.css": "4397b30a538c8e287034b0a67be353c92716df7c",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://jimyyy.github.io/Front-end-portfolio/assets/icons/favicon.png": "733fe49441c0a077f96646d4704a6332691a1ad9",
     "https://jimyyy.github.io/Front-end-portfolio/assets/images/9antra.png": "6623ff6ff04b493b7312ab2df91c6b3c4274744c",
     "https://jimyyy.github.io/Front-end-portfolio/assets/images/Capture d’écran (470).png": "6250ff212dc064e381cc3c8147e443ddc68b17d2",
     "https://jimyyy.github.io/Front-end-portfolio/assets/images/Capture d’écran (471).png": "ed2dd5bdc8558e702a6c343e04443a833bd4df9f",
@@ -292,8 +278,8 @@
     "https://jimyyy.github.io/Front-end-portfolio/assets/images/undraw-contact.svg": "bfef715361b159aae5e9f17eb5eef19d493b4496",
     "https://jimyyy.github.io/Front-end-portfolio/assets/style.css": "41b7dd716120707f787caddde7e84e3826e4c731",
     "https://jimyyy.github.io/Front-end-portfolio/favicon.png": "733fe49441c0a077f96646d4704a6332691a1ad9",
-    "https://jimyyy.github.io/Front-end-portfolio/index.html": "32083407bd1130e25dda08a2d17017f12519b8c5",
-    "https://jimyyy.github.io/Front-end-portfolio/main.8b6e1ed61b7e40b1f5f0.js": "b6be7218bbadf21d1f237831fbb9dfde8f0b9d9d",
+    "https://jimyyy.github.io/Front-end-portfolio/index.html": "c9d5394df9323a74348cb6c97523353bcf6d67c0",
+    "https://jimyyy.github.io/Front-end-portfolio/main.b20cb2319d93d61c9a61.js": "7e9629c2c284a10a207165b7c10f93e32c65dd18",
     "https://jimyyy.github.io/Front-end-portfolio/manifest.webmanifest": "377e8cded8af7af657d4f2cc366e38188576fab8",
     "https://jimyyy.github.io/Front-end-portfolio/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "https://jimyyy.github.io/Front-end-portfolio/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
