@@ -13,6 +13,10 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
+import { BannerComponent } from './components/banner/banner.component';
+import { AboutUsComponent } from './components/about-us/about-us.component';
+import { ExpertizeComponent } from './components/expertize/expertize.component';
+import { SkillsComponent } from './components/skills/skills.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +26,11 @@ import { environment } from '../environments/environment';
     FooterComponent,
     ContactComponent,
     ProjectsComponent,
-    CertificatesComponent
+    CertificatesComponent,
+    BannerComponent,
+    AboutUsComponent,
+    ExpertizeComponent,
+    SkillsComponent
   ],
   imports: [
     BrowserModule,

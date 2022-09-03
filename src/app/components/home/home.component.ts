@@ -33,9 +33,7 @@ export class HomeComponent implements OnInit {
     
   }
 
-  open(){
-    window.open("assets/images/Mohamed's Resume.pdf")
-  }
+  
 
   openresto(){
     window.open("https://jimyyy.github.io/angularproject/")
