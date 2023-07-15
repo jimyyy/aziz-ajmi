@@ -1,0 +1,12 @@
+/*.container {*/
+/*  width: 100%;*/
+/*}*/
+
+/*@media (max-width: 767px) {*/
+/*  .container {*/
+/*    width: 100vw;*/
+/*  }*/
+/*}*/
+.container{
+  text-align: center;
+}

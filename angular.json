@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "azizajmi"
+    }
+  },
+  "defaultProject": "azizajmi",
+  "cli": {
+    "analytics": false
+  }
 }

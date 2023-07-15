@@ -1,29 +1,29 @@
+<div class="container">
+<div class="row">
+  <nav class="navbar">
+      <div class="navbar-logo">
+        <a href="#"><img src="assets/images/Free_Sample_By_Wix.jpg" alt="Logo" loading="lazy"></a>
+      </div>
+
+
+      <div class="navbar-toggle" (click)="toggleNavbar()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <ul class="navbar-menu" [ngClass]="{'active': isNavbarOpen}">
+        <li><a href="">Home</a></li>
+        <li><a href="certificates">Certificates</a></li>
+        <li><a href="projects">Projects</a></li>
+        <li><a href="contact">Contact</a></li>
+      </ul>
+  </nav>
+
+
+</div>
 
 
 
-     
-            <nav class="navbar">
-                <!-- LOGO -->
-                <div class="logo">
-                    <img src="assets/images/logo.png" alt="" width="200" class="animate__animated animate__bounce">
-                </div>
-                <!-- NAVIGATION MENU -->
-                <ul class="nav-links">
-                  <!-- USING CHECKBOX HACK -->
-                  <input type="checkbox" id="checkbox_toggle" />
-                  <label for="checkbox_toggle" class="hamburger">&#9776;</label>
-                  <!-- NAVIGATION MENUS -->
-                  <div class="menu">
-                    <li><a routerLink="">Home</a></li>
-                    <li><a routerLink="projects">Projects</a></li>
-                   
-                    <li><a routerLink="certificates">Certificates</a></li>
-                    <li><a routerLink="contact">Contact</a></li>
-                  </div>
-                </ul>
-              </nav>
-
-
-  
+</div>
 
 

@@ -13,11 +13,11 @@ export class ProjectsComponent implements OnInit {
   }
 
   opengit(){
-    window.open("https://github.com/jimyyy/angularproject");
+    window.open("https://github.com/jimyyy/E-commerce-app-web-backend");
   }
 
   opengit1(){
-    window.open("https://github.com/jimyyy/angular");
+    window.open("https://github.com/jimyyy/facturation_project");
   }
 
   opengit2(){
@@ -31,6 +31,9 @@ export class ProjectsComponent implements OnInit {
   opengit4(){
     window.open("https://github.com/jimyyy/travel-agency");
 
+  }
+  opengit5(){
+    window.open("https://github.com/jimyyy/Restaurant_managment")
   }
 
 

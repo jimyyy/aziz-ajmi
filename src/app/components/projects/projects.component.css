@@ -1,3 +1,10 @@
 img{
     border: 0px;
 }
+#myImage {
+  transition: transform 0.3s ease-in-out;
+}
+
+#myImage:focus {
+  transform: scale(1.1);
+}

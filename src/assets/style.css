@@ -1,18 +1,13 @@
 body{
-  margin: 10px;
+  /*display: flex;*/
+  /*margin: 10px;*/
     line-height: 26px;
   font-size: 15px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #777777;
   background: url(images/body-bg.png) no-repeat center;
-}
-.back-to-top {
-  position: fixed;
-  display: none;
-  right: 45px;
-  bottom: 45px;
-  z-index: 99;
+  text-align: center;
 }
 
 h1,
@@ -25,10 +20,7 @@ h6 {
   font-weight: 500;
   color: #000000; }
 
-  nav ul li
-  {
-   margin:0 40px; 
-  }
+
 
   a {
     text-decoration: none;
@@ -37,12 +29,12 @@ h6 {
       text-decoration: none;
       outline: none; }
       .header_area {
-        
-        width: 100%;
+
+        /*//width: 100%;*/
         z-index: 9999;
         background: #ffffff; }
-        .header_area .menu_nav {
-          width: 100%; }
+        /*.header_area .menu_nav {*/
+        /*  width: 100%; }*/
         .header_area .navbar {
           background: transparent;
           padding: 0px;
@@ -158,24 +150,22 @@ h6 {
             .header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
               line-height: 70px;
               color: #000000; }
-          
+
           .owl-carousel.off {
             display: -ms-flexbox;
             display: flex; }
 
-            .rounded_img{
-             
-              border-radius: 50px;
-              display: flex;
-              margin-left: 90px;
+            /*.rounded_img{*/
 
-            }
+            /*  border-radius: 50px;*/
+            /*  display: flex;*/
+            /*  margin-left: 90px;*/
+
+            /*}*/
             .home_banner_area{
-              padding-top: 170px;
+              padding-top: 150px;
             }
-            img{
-              border-radius: 50px;
-            }
+
             #expert{
               padding-top: 150px;
             }
@@ -215,7 +205,8 @@ h6 {
                     z-index: 0; }
                     @media screen and (max-width: 768px) {
                       .services {
-                        margin-bottom: 4em; } }
+                        margin-bottom: 4em;
+                      width: 100%} }
                     .services .icon {
                       position: absolute;
                       top: -20px;
@@ -274,14 +265,14 @@ h6 {
                           font-size: 16px;
                           font-family: "Quicksand", Arial, sans-serif;
                           margin-bottom: 10px; }
-                        
+
                         .progress {
                           height: 6px;
                           -webkit-box-shadow: none;
                           box-shadow: none;
                           background: #f2f3f7;
                           overflow: visible; }
-                        
+
                         .progress-bar {
                           background: #2c98f0;
                           -webkit-box-shadow: none;
@@ -354,21 +345,21 @@ h6 {
                               .timeline-centered {
                                 position: relative;
                                 margin-bottom: 30px; }
-                              
+
                               .timeline-centered:before, .timeline-centered:after {
                                 content: " ";
                                 display: table; }
-                              
+
                               .timeline-centered:after {
                                 clear: both; }
-                              
+
                               .timeline-centered:before, .timeline-centered:after {
                                 content: " ";
                                 display: table; }
-                              
+
                               .timeline-centered:after {
                                 clear: both; }
-                              
+
                               .timeline-centered:before {
                                 content: '';
                                 position: absolute;
@@ -378,18 +369,18 @@ h6 {
                                 top: 20px;
                                 bottom: 20px;
                                 margin-left: 29px; }
-                              
+
                               .timeline-centered .timeline-entry {
                                 position: relative;
                                 margin-top: 5px;
                                 margin-left: 30px;
                                 margin-bottom: 10px;
                                 clear: both; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner {
                                 position: relative;
                                 margin-left: -20px; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon {
                                 display: block;
                                 width: 40px;
@@ -420,7 +411,7 @@ h6 {
                                   width: 20px;
                                   height: 20px;
                                   margin-left: 10px; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
                                 position: relative;
                                 background: #f2f3f7;
@@ -429,7 +420,7 @@ h6 {
                                 -webkit-background-clip: padding-box;
                                 -moz-background-clip: padding;
                                 background-clip: padding-box; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
                                 content: '';
                                 display: block;
@@ -442,18 +433,18 @@ h6 {
                                 left: 0;
                                 top: 10px;
                                 margin-left: -9px; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p + p {
                                 margin-top: 15px; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 {
                                 font-size: 20px;
                                 font-family: "Quicksand", Arial, sans-serif;
                                 font-weight: 500; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 a {
                                 color: #000; }
-                              
+
                               .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 span {
                                 -webkit-opacity: .4;
                                 -moz-opacity: .4;
@@ -463,7 +454,7 @@ h6 {
                                 font-size: 16px; }
 
 
-                             
+
 
 
                                         @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
@@ -648,6 +639,7 @@ h6 {
 		width: 100%;
 		margin-bottom: 40px;
 		text-align: center;
+    color: white;
 	}
 
 	.footer-distributed .footer-center i{
@@ -672,7 +664,7 @@ h6 {
     a:hover, a:focus {
       text-decoration: none;
       outline: none; }
-  
+
   button:focus {
     outline: none;
     box-shadow: none; }
@@ -683,6 +675,7 @@ h6 {
 
 
     .primary_btn {
+      margin-left: 156px;
       display: inline-block;
       color: #fff;
       letter-spacing: 0px;
@@ -706,7 +699,7 @@ h6 {
         background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
         border: 2px solid transparent;
         color: #222222;
-        box-shadow: none; }
+        box-shadow:chocolate; }
         .primary_btn.tr-bg:hover {
           background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee);
           border: double 2px transparent;
@@ -725,8 +718,7 @@ h6 {
 
 
 
-                                       
 
 
-          
-          
+
+

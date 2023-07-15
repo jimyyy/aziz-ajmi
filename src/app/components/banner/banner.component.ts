@@ -13,7 +13,7 @@ export class BannerComponent implements OnInit {
   }
 
   open(){
-    window.open("assets/images/CV Ajmi Mohamed Aziz (3).pdf")
+    window.open("assets/images/Mohamed_Aziz_Ajmi_resume_english.pdf")
   }
 
 }
